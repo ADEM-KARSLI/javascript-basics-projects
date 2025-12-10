@@ -1,86 +1,84 @@
-# JavaScript Basics & Mini Projects
+# JavaScript Temelleri & Mini Projeler
 
-A collection of beginner-friendly **JavaScript fundamentals**, exercises, and small practice projects.  
-This repository is part of my learning journey covering **variables, functions, arrays, loops, objects, ES6 features, higher-order functions**, and more.
-
----
-
-## 📚 Topics Covered
-
-### **Sprint 1 – JavaScript Fundamentals**
-- Variables & Data Types  
-- Conditionals  
-- Operators, Truthy/Falsy Values  
-- Functions & Scope  
-- Arrays & Basic Methods  
-- Loops  
-- Practice Exercises  
-- Mini Projects  
-
-### **Sprint 2 – Advanced JavaScript**
-- Objects & Object Methods  
-- Spread Operator  
-- ES6+ Features  
-- Different ways of creating functions  
-- Callback functions  
-- Asynchronous JS basics  
-- Higher-Order Functions (filter, map, sort, reduce)  
-- More Mini Projects  
+Bu depo, yeni başlayanlar için **JavaScript temelleri**, alıştırmalar ve küçük uygulama projelerini içerir.  
+Bu repo, değişkenler, fonksiyonlar, diziler, döngüler, objeler, ES6 özellikleri, yüksek mertebe fonksiyonlar (higher-order functions) ve daha fazlasını kapsayan öğrenme yolculuğumun bir parçasıdır.
 
 ---
 
-## 🧩 Mini Projects
+## 📚 Kapsanan Konular
+
+### Sprint 1 – JavaScript Temelleri
+- Değişkenler & Veri Tipleri  
+- Koşullar (if / else)  
+- Operatörler & Doğru / Yanlış (Truthy / Falsy)  
+- Fonksiyonlar & Scope  
+- Diziler & Temel Metodlar  
+- Döngüler  
+- Alıştırmalar  
+- Mini Projeler  
+
+### Sprint 2 – İleri Düzey JavaScript
+- Objeler & Obje Metodları  
+- Spread Operatörü  
+- ES6+ Özellikleri  
+- Farklı fonksiyon oluşturma yöntemleri  
+- Callback fonksiyonları  
+- Asenkron JS temelleri  
+- Yüksek mertebe fonksiyonlar (filter, map, sort, reduce)  
+- Daha fazla Mini Proje  
+
+---
+
+## 🧩 Mini Projeler
 
 <pre>
-/projects
-├── grade-calculator
-├── rock-paper-scissors
-├── ev-car-raffle
-├── donation-calculator
-├── car-simulator
-├── final-match-summary
-├── who-pays-the-bill
+projects/
+├── 01-maas-hesaplama
+├── 02-tas-kagit-makas
+├── 03-elektrikli-araba-cekilisi
+├── 04-bagis-hesaplama
+├── 05-araba-simulasyonu
+├── 06-final-maci-ozeti
+├── 07-hesabi-kim-odeyecek
 </pre>
 
 ---
 
-## 🎯 Purpose
+## 🎯 Amaç
 
-This repository will help me:
+Bu depo ile:
 
-- Strengthen JavaScript fundamentals  
-- Practice real-life scenarios  
-- Build a clean and organized GitHub portfolio  
-- Track my progress step by step  
+- JavaScript temellerimi pekiştirmek  
+- Gerçek yaşam senaryolarında pratik yapmak  
+- Temiz ve düzenli bir GitHub portfolyosu oluşturmak  
+- Öğrenme sürecimi adım adım takip etmek  
 
 ---
 
-## 🛠️ Technologies
+## 🛠️ Kullanılan Teknolojiler
 
 - JavaScript (ES6+)  
-- Node.js (for running JS files locally)
+- Node.js (JS dosyalarını yerel çalıştırmak için)
 
 ---
 
-## ✔️ Progress
+## ✔️ İlerleme Durumu
 
-I will update this section as I complete projects.
-
-- [ ] Sprint 1 Mini Project 1  
-- [ ] Sprint 1 Mini Project 2  
-- [ ] Sprint 1 Mini Project 3  
-- [ ] Sprint 2 Projects  
-- [ ] More coming soon...
+- [x] Sprint 1 Mini Proje 1 – Maaş Hesaplama  
+- [ ] Sprint 1 Mini Proje 2 – Taş-Kağıt-Makas  
+- [ ] Sprint 1 Mini Proje 3 – Elektrikli Araba Çekilişi  
+- [ ] Sprint 2 Projeleri  
+- [ ] Daha fazlası yakında...
 
 ---
 
-## 📩 Notes
+## 📩 Notlar
 
-Feel free to explore, fork, or give feedback!
+İnceleyebilir, fork edebilir veya geri bildirim verebilirsiniz.
 
 ---
 
 ## 🇹🇷 Not
 
-Kendi öğrenme sürecim için oluşturulmuş bir repo.  
+Bu repo, kendi öğrenme sürecim için oluşturulmuştur.  
 Zaman içinde gelişimimi buradan takip edebilirsiniz.
